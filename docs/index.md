@@ -23,7 +23,7 @@ If you see any issue with this documentation, please feel free to raise an issue
 
 This is the architecture of the project;
 
-![Beginner Project](/docs/assets/beginner.png)
+![Beginner Project](assets/beginner.png)
 
 ### Advance' Project
 - Application: train-ticket app
@@ -31,7 +31,7 @@ This is the architecture of the project;
 
 This is the architecture of the project;
 
-![Advance Project](/docs/assets/advance.png)
+![Advance Project](assets/advance.png)
 
 ## About me
 
