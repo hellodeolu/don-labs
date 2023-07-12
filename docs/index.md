@@ -1,4 +1,4 @@
-#do-devops-projects
+# do-devops-projects
 
 Hello,
 Glad you are here to learn and do Cloud computing and DevOps things. This site is an evolving project with an intention to guide the users while exploring free but useful resources on cloud computing and everything DevOps. The site already contains a wealth of information, including reference to tutorials, exercises, and hands-on projects. I believe learning any new concept with a proper guide to resources and its hands-on projects is the best way to learn.
@@ -16,6 +16,6 @@ If you see any issue with this documentation, Please feel free to raise an issue
 ## About me
 
 Adeolu Oyinlola
-- ([LinkedIn](https://www.linkedin.com/in/deoluoyinlola/))
-- ([Twitter](https://twitter.com/deoluoyinlola))
-- ([Gmail](deoluoyinlola@gmail.com))
+- [LinkedIn](https://www.linkedin.com/in/deoluoyinlola/)
+- [Twitter](https://twitter.com/deoluoyinlola)
+- [Gmail](deoluoyinlola@gmail.com)
