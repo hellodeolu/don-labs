@@ -2,9 +2,9 @@
 
 Hello,
 
-Glad you are here to learn and do Cloud computing and DevOps things. This site is an evolving project with an intention to guide the users while exploring free but useful resources on cloud computing and everything DevOps. The site already contains a wealth of information, including reference to tutorials, exercises, and hands-on projects. I believe learning any new concept with a proper guide to resources and its hands-on projects is the best way to learn.
+I am glad you are here to learn and do everything Cloud computing and DevOps things. This site is an evolving project with an intention to guide the users while exploring free but useful resources on cloud computing and everything DevOps. The site already contains a wealth of information, including reference to tutorials, exercises, and hands-on projects. I believe learning any new concept with a proper guide to resources and its hands-on projects is the best way to learn.
 
-Both cloud computing and DevOps are rapidly growing fields, and there is a high demand for skilled professionals in these areas. Cloud computing is particularly in demand as businesses and organizations move their IT infrastructure to the cloud. DevOps is also in demand as businesses look for ways to improve the efficiency and reliability of their software delivery process. Both cloud computing and DevOps are relatively easy to learn.
+Cloud Computing and DevOps roles are one of the most influential trend in software development. That’s reflected in the fact DevOps engineer is currently one of the most in-demand IT roles. Right now, there are over 17,000 DevOps engineer roles advertised on Indeed.com in the USA alone with an average salary range of $96,600-$122,000. While, both cloud computing and DevOps are relatively easy to learn, you must not miss out.
 
 Some reasons why cloud computing and DevOps are easy to learn:
 
@@ -14,9 +14,29 @@ Some reasons why cloud computing and DevOps are easy to learn:
 
 If you see any issue with this documentation, please feel free to raise an issue on the github repo or drop a message for me on any of the handle.
 
+## About Final Project
+- Note that you are expected to complete at least a project per week. While in addition, have two category of final projects in this program;
+  
+### Beginners' Project
+- Application: e-commerce-microservices app
+- Credit: Venkata Ravuri @venkataravuri
+
+This is the architecture of the project;
+
+![Beginner Project](/docs/assets/beginner.png)
+
+### Advance' Project
+- Application: train-ticket app
+- Credit: FudanSELab
+
+This is the architecture of the project;
+
+![Advance Project](/docs/assets/advance.png)
+
 ## About me
 
 Adeolu Oyinlola
+
 - [GitHub](https://github.com/deoluoyinlola/do-devops-projects)
 
 - [LinkedIn](https://www.linkedin.com/in/deoluoyinlola/)
