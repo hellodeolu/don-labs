@@ -11,10 +11,11 @@ Some reasons why cloud computing and DevOps are easy to learn:
 - There are many resources available: There are many online resources available to help people learn about cloud computing and DevOps. This includes tutorials, articles, and videos.
 - There is a strong community: There is a strong community of cloud computing and DevOps professionals who are willing to help others learn. This community can provide support and guidance.
 
-If you see any issue with this documentation, Please feel free to raise an issue on the github or drop a mail to me.
+If you see any issue with this documentation, Please feel free to raise an issue on the github repo or drop a message for me on any of the handle.
 
 ## About me
 
 Adeolu Oyinlola
+- [GitHub](https://github.com/deoluoyinlola/do-devops-projects)
 - [LinkedIn](https://www.linkedin.com/in/deoluoyinlola/)
 - [Twitter](https://twitter.com/deoluoyinlola)
