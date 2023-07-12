@@ -4,7 +4,7 @@
 - Version Control System
 
 # Resources
--Do well to watch, read and research through the following materials; 
+Do well to watch, read and research through the following materials; 
 
 ## What is DevOps
 Dev(sec)Ops: everything you do to overcome the friction created by silos … All the rest is plain engineering

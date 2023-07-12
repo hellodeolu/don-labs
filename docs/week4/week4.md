@@ -4,7 +4,7 @@
 - Network
 
 # Resources
--Do well to watch, read and research through the following materials; 
+Do well to watch, read and research through the following materials; 
 
 ## cloud
 ### videos;
@@ -42,8 +42,6 @@ Web stack implementation (lamp stack) in AWS
 * [step 4; creating a virtual host for your website using apache](#virtual_host)
 * [step 5; enable php on the website](#enable_php)
 
-[Back to Steps](#Steps)
-
 ### installing_apache
 - Update the repositries and install Apache using Ubuntu's package manager by running command:
 ```
@@ -54,14 +52,14 @@ sudo apt install apache2
 ```
 sudo systemctl status apache2
 ```
-![screenshot_here](../docs/..)
+![screenshot_here](/docs/..)
 - Requested Apache HTTP server on port 80:
 ```
 curl http://localhost:80
 ```
 - Verify if Apache HTTP server can respond to requests from the Internet; check screenshoot below
 
-![screenshot_here](../docs/..)
+![screenshot_here](/docs/..)
 
 ### installing_mysql
 - Install MySQL by running this command:
@@ -80,7 +78,7 @@ sudo mysql
 ``` 
 mysql> exit
 ```
-![screenshot_here](../docs/..)
+![screenshot_here](/docs/..)
 
 ### installing_php
 - In addition to the php package, the server will need php-mysql, a PHP module that allows PHP to communicate with MySQL-based databases.
@@ -129,7 +127,7 @@ Saved and closed the file, as shown below:
 ```
 sudo ls /etc/apache2/sites-available
 ```
-![screenshot_here](../docs/..)
+![screenshot_here](/docs/..)
 - enable the new virtual host
 ```
 sudo a2ensite projectlamp
@@ -181,7 +179,7 @@ vim /var/www/projectlamp/index.php
 phpinfo();
 ```
 - Refresh your EC2 public ip address url page
-![screenshot_here](../docs/..)
+![screenshot_here](/docs/..)
 - It’s best to remove the file you created as it contains sensitive information about your PHP environment -and your Ubuntu server.
 ```
 sudo rm /var/www/projectlamp/index.php
@@ -220,9 +218,9 @@ vagrant up
 ```
 
 ### Check if things work correctly
-![screenshot_here](../docs/..)
-![screenshot_here](../docs/..)
-![screenshot_here](../docs/..)
+![screenshot_here](/docs/..)
+![screenshot_here](/docs/..)
+![screenshot_here](/docs/..)
 
 ### Destroy with the vagrant destroy command
 ```
