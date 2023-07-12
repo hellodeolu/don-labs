@@ -8,7 +8,7 @@ theme:
     primary: indigo
   font:
     text: 'Roboto'
-  logo: 'assets/images/logo.png'
+  logo: 'assets/logo.jpeg'
 extra_css:
   - 'assets/extra.css'
 markdown_extensions:
@@ -18,55 +18,16 @@ markdown_extensions:
     permalink: true
 nav:
   - About: index.md
-  - Variables:
-    - Introduction: variables/introduction.md
-  - Operators:
-    - Introduction: operators/introduction.md
-    - Arithmetic: operators/arithmetic.md
-    - Assignment: operators/assignment.md
-    - Logical: operators/logical.md
-    - Relational: operators/relational.md
-    - Identity: operators/identity.md
-    - Membership: operators/membership.md
-    - Bitwise: operators/bitwise.md
-    - Precedence: operators/precedence.md
-  - Data Types:
-    - Introduction: datatypes/introduction.md
-    - Strings: 
-      - Introduction: datatypes/strings/strings.md
-    - List: 
-      - Introduction: datatypes/list/list.md
-      - Methods: datatypes/list/list_methods.md
-      - Questions: datatypes/list/list_exercise.md
-    - Tuple: 
-      - Introduction: datatypes/tuple/tuple.md
-      - Questions: datatypes/tuple/tuple_exercise.md
-    - Set: 
-      - Introduction: datatypes/set/set.md
-      - Methods: datatypes/set/set_methods.md
-      - Questions: datatypes/set/set_exercise.md
-    - Dict: 
-      - Introduction: datatypes/dict/dict.md
-      - Methods: datatypes/dict/dict_methods.md
-      - Questions: datatypes/dict/dict_exercise.md
-  - Loops: 
-    - Introduction: loops/introduction.md
-    - While: loops/while.md
-    - For: loops/for.md
-    - Questions: loops/problems.md
-  - Comprehensions:
-    - Introduction: comprehensions/introduction.md
-    - List Comprehension:
-      - Introduction: comprehensions/listcomprehension/introduction.md
-    - Dictionary Comprehension:
-      - Introduction: comprehensions/dictionarycomprehension/introduction.md
-    - Set Comprehensions:
-      - Introduction: comprehensions/setcomprehensions/introduction.md
-    - Generator Comprehensions:
-      - Introduction: comprehensions/generatorcomprehensions/introduction.md
-  - File Operations:
-    - Introduction: file_handling/introduction.md
-  - Python Modules:
-    - Introduction: python_modules/introduction.md
-  - Exception:
-    - Introduction: exceptional_handling/introduction.md
+  - Week 1: week1.md
+  - Week 2: week2.md
+  - Week 3: week3.md
+  - Week 4: week4.md
+  - Week 5: week5.md
+  - Week 6: week6.md
+  - Week 7: week7.md
+  - Week 8: week8.md
+  - Week 9: week9.md
+  - Week 10: week10.md
+  - Week 11: week11.md
+  - Week 12: week12.md
+  - What Next: /next.md
