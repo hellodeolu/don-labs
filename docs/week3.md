@@ -1,11 +1,37 @@
-## Resources
+# Focus for the week;
+- Scripting &
+- Database
+
+# Resources
 -Do well to watch, read and research through the following materials; 
 
-### videos;
-- 
+## Scripting
+### tutorial videos
+- Shell Scripting Crash Course - Beginner Level ([Traversy Media](https://www.youtube.com/watch?v=v-F3YLd6oMw))
+- Bash Scripting Full Course 3 Hours ([linuxhint](https://www.youtube.com/watch?v=e7BufAVwDiM))
+- Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac Terminal ([freeCodeCamp](https://www.youtube.com/watch?v=BFMyUgF6I8Y))
+- Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training ([edureka!](https://www.youtube.com/watch?v=GtovwKDemnI))
+- Bash Shell Scripting Tutorial | Shell Scripting Tutorial | Learn Shell Programming ([ProgrammingKnowledge](https://www.youtube.com/watch?v=zWVV31NYi1U))
+- Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE] ([TechWorld with Nana](https://www.youtube.com/watch?v=t8pPdKYpowI))
+- Python Tutorial - Python Full Course for Beginners ([Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc))
+- Python for Automation ([freeCodeCamp](https://www.youtube.com/watch?v=s8XjEuplx_U))
 
-### others;
-- 
+### other;
+- Python For DevOps: Guide for DevOps Engineers ([devopscube](https://devopscube.com/python-for-devops/))
+- How to Learn Linux Shell Scripting for DevOps? ([devopscube](https://devopscube.com/linux-shell-scripting-for-devops/))
+- Collection of utility and automation scripts ([deoluoyinlola](https://github.com/deoluoyinlola/automation-with-bash-and-python))
+- Linux Command Line and Shell Scripting Bible-Wiley (2015) by Richard Blum, Christine Bresnahan
+- Python for Unix and Linux System Administration [Noah Gift] (2009) (2008) by Noah Gift, Jeremy Jones
+
+
+## database
+### tutorial videos
+- SQL Tutorial - Full Database Course for Beginners ([freeCodeCamp](https://www.youtube.com/watch?v=HXV3zeQKqGY))
+- Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis) ([freeCodeCamp](https://www.youtube.com/watch?v=4cWkVbC2bNE))
+- Where's the Database in DevOps? ([Redgate Videos](https://www.youtube.com/watch?v=NRqgGqm98S4))
+
+### books
+- (Mastering Linux) Linux Storage (2015) by Paul Cobbaut
 
 
 ## Projects

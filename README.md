@@ -41,13 +41,12 @@ This is the architecture of the project;
 
 ## Instructions
 
-If you wish to follow along with this series of DevOps hands-on projects, you need to forked this Github Repository. I also encounrage you to always document your progress for each week. Perhaps, you need detail steps starting out, always check introduction section of week 1. 
+If you wish to follow along with this series of DevOps hands-on projects, you need to forked this Github Repository. I also encounrage you to always document your progress for each week. Perhaps, you need detail steps starting out, always check introduction part of week 1. 
 
 ## Notes
 
 The `/docs` directory contains
 
-- [ ] [Week 0](docs/week0.md)
 - [ ] [Week 1](docs/week1.md)
 - [ ] [Week 2](docs/week2.md)
 - [ ] [Week 3](docs/week3.md)
