@@ -18,4 +18,3 @@ If you see any issue with this documentation, Please feel free to raise an issue
 Adeolu Oyinlola
 - [LinkedIn](https://www.linkedin.com/in/deoluoyinlola/)
 - [Twitter](https://twitter.com/deoluoyinlola)
-- [Gmail](deoluoyinlola@gmail.com)
