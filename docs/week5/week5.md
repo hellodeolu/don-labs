@@ -1,4 +1,4 @@
-# Focus for the week;
+# FOCUS FOR THE WEEK
 - Collaboration
 
 # Resources

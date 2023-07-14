@@ -1,10 +1,21 @@
-# Focus for the week;
+# FOCUS FOR THE WEEK
 - Cloud,
 - AWS &
 - Network
 
-# Resources
-Do well to watch, read and research through the following materials; 
+**Contents** <a name="Contents"></a>
+<!-- TOC -->
+  * [FOCUS FOR THE WEEK](#FOCUS-FOR-THE-WEEK)
+  * [RESOURCES](#RESOURCES)
+    * [What is DevOps](#What-is-DevOps)
+    * [Cloud Computing](#Cloud-Computing)
+    * [Version Control System](#Version-Control-System)
+  * [HANDS-ON PROJECTS](#HANDS-ON-PROJECTS)
+  * [Back to Contents](#Contents)
+<!-- TOC -->
+
+# RESOURCES
+I recommend that you watch at least 2 tutorial videos, choose anyone that resonate with you and complete it's hands-on projects. Perhaps, in your extra time I encourage you to read and note things down while exploring the below books references and links; 
 
 ## cloud
 ### videos;
@@ -227,4 +238,4 @@ vagrant up
 vagrant destory
 ```
 
-## project 3 - 
+# HANDS-ON PROJECTS

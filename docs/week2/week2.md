@@ -1,9 +1,20 @@
-# Focus for the week;
+# FOCUS FOR THE WEEK
 - Linux &
 - Security
 
-# Resources
-Do well to watch, read and research through the following materials; 
+**Contents** <a name="Contents"></a>
+<!-- TOC -->
+  * [FOCUS FOR THE WEEK](#FOCUS-FOR-THE-WEEK)
+  * [RESOURCES](#RESOURCES)
+    * [What is DevOps](#What-is-DevOps)
+    * [Cloud Computing](#Cloud-Computing)
+    * [Version Control System](#Version-Control-System)
+  * [HANDS-ON PROJECTS](#HANDS-ON-PROJECTS)
+  * [Back to Contents](#Contents)
+<!-- TOC -->
+
+# RESOURCES
+I recommend that you watch at least 2 tutorial videos, choose anyone that resonate with you and complete it's hands-on projects. Perhaps, in your extra time I encourage you to read and note things down while exploring the below books references and links; 
 
 ## Linux
 ### tutorial videos;
@@ -20,7 +31,6 @@ Do well to watch, read and research through the following materials;
 - Linux Pocket Guide, 3rd Edition_ Essential Commands-O'Reilly Media (2016) by Daniel J. Barrett
 
 ## Security
-
 ### tutorial videos
 - Introduction to Cloud Security ([SANS Cloud Security](https://www.youtube.com/playlist?list=PLsfnCRA9QVnSj4gbP5W1W1CXjPRhe1oE2))
 - Cloud Security Full Course | Cloud Security Fundamentals | Cloud Security Training ([Intellipaat](https://www.youtube.com/watch?v=Ijkvx1u0w6o))
@@ -30,5 +40,4 @@ Do well to watch, read and research through the following materials;
 - All in One CISSP Exam Guide-McGraw-Hill by Fernando Maymí, Shon Harris (2022)
 
 
-
-# Projects
+# HANDS-ON PROJECTS

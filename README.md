@@ -43,19 +43,22 @@ This is the architecture of the project;
 
 If you wish to follow along with this series of DevOps hands-on projects, you need to forked this Github Repository. I also encounrage you to always document your progress for each week. Perhaps, you need detail steps starting out, always check introduction part of week 1. 
 
+## Contribution
+- [How to Contribute](CONTRIBUTING.md)
+
 ## Notes
 
 The `/docs` directory contains
 
-- [ ] [Week 1](docs/week1.md)
-- [ ] [Week 2](docs/week2.md)
-- [ ] [Week 3](docs/week3.md)
-- [ ] [Week 4](docs/week4.md)
-- [ ] [Week 5](docs/week5.md)
-- [ ] [Week 6](docs/week6.md)
-- [ ] [Week 7](docs/week7.md)
-- [ ] [Week 8](docs/week8.md)
-- [ ] [Week 9](docs/week9.md)
-- [ ] [Week 10](docs/week10.md)
-- [ ] [Week 11](docs/week11.md)
-- [ ] [Week 12](docs/week12.md)
+- [ ] [Week 1](docs/week1/week1.md)
+- [ ] [Week 2](docs/week2/week2.md)
+- [ ] [Week 3](docs/week3/week3.md)
+- [ ] [Week 4](docs/week4/week4.md)
+- [ ] [Week 5](docs/week5/week5.md)
+- [ ] [Week 6](docs/week6/week6.md)
+- [ ] [Week 7](docs/week7/week7.md)
+- [ ] [Week 8](docs/week8/week8.md)
+- [ ] [Week 9](docs/week9/week9.md)
+- [ ] [Week 10](docs/week10/week10.md)
+- [ ] [Week 11](docs/week11/week11.md)
+- [ ] [Week 12](docs/week12/week12.md)

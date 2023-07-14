@@ -1,2 +1,2 @@
-# Focus for the week;
+# FOCUS FOR THE WEEK
 - Container

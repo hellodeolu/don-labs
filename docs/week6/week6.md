@@ -1,4 +1,4 @@
-# Focus for the week;
+# FOCUS FOR THE WEEK
 - Infrastructure as a code
 
 # Resources
