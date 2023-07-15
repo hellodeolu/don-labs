@@ -28,11 +28,13 @@ I recommend that you watch at least 2 tutorial videos, choose anyone that resona
 - Python for Automation ([freeCodeCamp](https://www.youtube.com/watch?v=s8XjEuplx_U))
 
 ### other;
+- Advanced Bash-Scripting Guide ([Website](https://tldp.org/LDP/abs/html/))
 - Python For DevOps: Guide for DevOps Engineers ([devopscube](https://devopscube.com/python-for-devops/))
 - How to Learn Linux Shell Scripting for DevOps? ([devopscube](https://devopscube.com/linux-shell-scripting-for-devops/))
 - Collection of utility and automation scripts ([deoluoyinlola](https://github.com/deoluoyinlola/automation-with-bash-and-python))
 - Linux Command Line and Shell Scripting Bible-Wiley (2015) by Richard Blum, Christine Bresnahan
 - Python for Unix and Linux System Administration [Noah Gift] (2009) (2008) by Noah Gift, Jeremy Jones
+- Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners by Al Sweigart
 
 
 ## database
