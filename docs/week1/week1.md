@@ -105,11 +105,11 @@ Dev(sec)Ops: simply put, everything you do to overcome the friction created by s
 ### with AWS
 - Open account with AWS ([AWS Account Creation](https://aws.amazon.com/console/))
 
-### with Azure
-- Open account with Azure ([Azure Account Creation](https://azure.microsoft.com/)) - optional
+### with Azure - optional
+- Open account with Azure ([Azure Account Creation](https://azure.microsoft.com/))
 
-### with GCP
-- Open account with GCP ([GCP Account Creation](https://console.cloud.google.com/freetrial/signup/tos?pli=1)) - optional
+### with GCP - optional
+- Open account with GCP ([GCP Account Creation](https://console.cloud.google.com/freetrial/signup/tos?pli=1))
 
 ## Task 4 - Create Your First Resource In AWS
 - Create your EC2 resources ([EC2 resources](https://docs.aws.amazon.com/efs/latest/ug/gs-step-one-create-ec2-resources.html))
