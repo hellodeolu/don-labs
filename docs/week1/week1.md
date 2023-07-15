@@ -22,7 +22,7 @@ I recommend that you watch at least 2 tutorial videos, choose anyone that resona
 
 ## What is DevOps
 Dev(sec)Ops: simply put, everything you do to overcome the friction created by silos … All the rest is plain engineering
-![devops](/docs/assets/shades-of-devops.png)
+![devops](..assets/shades-of-devops.png)
 
 ### videos;
 - DevOps Prerequisites Course - Getting started with DevOps ([FreeCodeCamp](https://www.youtube.com/watch?v=Wvf0mBNGjXY))
@@ -92,9 +92,10 @@ Dev(sec)Ops: simply put, everything you do to overcome the friction created by s
 - Create Account ([GitHub](https://github.com/))
 
 ### Create your first repository
-- Fork the repository ([do-devops-projects](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository))
-- Create from the template ([do-devops-projects](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)) - optional
-- Clone the repository ([do-devops-projects](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)) - optional
+- Navigate to the program repository at; https://github.com/deoluoyinlola/do-devops-projects and then fork the repository. 
+- Fork the repository ([how to fork a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository))
+- Create from the template ([how to create a repository from template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)) - optional
+- Clone the repository ([how to clone a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)) - optional
 
 ### Start documenting your progress
 - Immediately after you forked the original repository, start documenting your progress by locating directory for each week. Where necessary, take screenshots for each step/task from your computer and upload it appropriately.
