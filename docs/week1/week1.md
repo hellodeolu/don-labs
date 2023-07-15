@@ -72,6 +72,8 @@ Dev(sec)Ops: simply put, everything you do to overcome the friction created by s
 
 [Back to Contents](#Contents)
 
+
+
 # HANDS-ON PROJECTS
 ## Task 1 - Setting up your machine/laptop
 ### basic installations
@@ -103,10 +105,10 @@ Dev(sec)Ops: simply put, everything you do to overcome the friction created by s
 ### with AWS
 - Open account with AWS ([AWS Account Creation](https://aws.amazon.com/console/))
 
-### with Azure
+### with Azure - optional
 - Open account with Azure ([Azure Account Creation](https://azure.microsoft.com/))
 
-### with GCP
+### with GCP - optional
 - Open account with GCP ([GCP Account Creation](https://console.cloud.google.com/freetrial/signup/tos?pli=1))
 
 ## Task 4 - Create Your First Resource In AWS
