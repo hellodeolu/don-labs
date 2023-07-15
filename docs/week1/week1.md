@@ -22,7 +22,7 @@ I recommend that you watch at least 2 tutorial videos, choose anyone that resona
 
 ## What is DevOps
 Dev(sec)Ops: simply put, everything you do to overcome the friction created by silos … All the rest is plain engineering
-![devops](assets/shades-of-devops.png)
+![devops](/docs/assets/shades-of-devops.png)
 
 ### videos;
 - DevOps Prerequisites Course - Getting started with DevOps ([FreeCodeCamp](https://www.youtube.com/watch?v=Wvf0mBNGjXY))
