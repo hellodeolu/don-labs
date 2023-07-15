@@ -21,8 +21,7 @@
 I recommend that you watch at least 2 tutorial videos, choose anyone that resonate with you and complete it's hands-on projects. Perhaps, in your extra time I encourage you to read and note things down while exploring the below books references and links; 
 
 ## What is DevOps
-Dev(sec)Ops: simply put, everything you do to overcome the friction created by silos … All the rest is plain engineering
-![devops](..assets/shades-of-devops.png)
+Dev(sec)Ops: simply put, everything you do to overcome the friction created by silos. All the rest is plain engineering.
 
 ### videos;
 - DevOps Prerequisites Course - Getting started with DevOps ([FreeCodeCamp](https://www.youtube.com/watch?v=Wvf0mBNGjXY))
