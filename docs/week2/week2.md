@@ -6,9 +6,8 @@
 <!-- TOC -->
   * [FOCUS FOR THE WEEK](#FOCUS-FOR-THE-WEEK)
   * [RESOURCES](#RESOURCES)
-    * [What is DevOps](#What-is-DevOps)
-    * [Cloud Computing](#Cloud-Computing)
-    * [Version Control System](#Version-Control-System)
+    * [Linux](#Linux)
+    * [Security](#Security)
   * [HANDS-ON PROJECTS](#HANDS-ON-PROJECTS)
   * [Back to Contents](#Contents)
 <!-- TOC -->
@@ -31,13 +30,40 @@ I recommend that you watch at least 2 tutorial videos, choose anyone that resona
 - Linux Pocket Guide, 3rd Edition_ Essential Commands-O'Reilly Media (2016) by Daniel J. Barrett
 
 ## Security
-### tutorial videos
+### tutorial videos;
 - Introduction to Cloud Security ([SANS Cloud Security](https://www.youtube.com/playlist?list=PLsfnCRA9QVnSj4gbP5W1W1CXjPRhe1oE2))
 - Cloud Security Full Course | Cloud Security Fundamentals | Cloud Security Training ([Intellipaat](https://www.youtube.com/watch?v=Ijkvx1u0w6o))
 - Cloud Security Tutorial | Cloud Security Fundamentals | What is Cloud Security ([edureka](https://www.youtube.com/watch?v=0lw4KU5wHsk))
 
-### books
+### others;
 - All in One CISSP Exam Guide-McGraw-Hill by Fernando Maymí, Shon Harris (2022)
+- Getting Started with AWS Identity and Access Management (IAM) ([AWS doc](https://aws.amazon.com/iam/getting-started/))
 
 
 # HANDS-ON PROJECTS
+## Task 1 - Linux processes, 
+
+
+
+## Task 2 - 
+
+
+## Task 3 - AWS IAM user and Access keys for programmatic access
+- All you need to complete task 3 ([AWS doc](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started.html))
+
+### Create your first IAM user
+
+### Create your first role
+
+### Create your first IAM policy
+
+### Getting access keys for programmatic access
+
+## Task 4 - Get started with Amazon EC2 Linux instances
+- All you need to complete task 4 ([AWS doc](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html))
+
+### step 1; Launch an instance
+
+### step 2; Connect to your instance
+
+### step 3; Clean up your instance
