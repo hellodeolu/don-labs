@@ -23,7 +23,7 @@ I hope you enjoy learning with us!
 
 This is the architecture of the final project;
 
-![Beginner Project](assets/beginner.png)
+![Beginner Project](../assets/beginner.png)
 
 ### Next Individual Challenge
 - Application: train-ticket app
@@ -31,7 +31,7 @@ This is the architecture of the final project;
 
 This is the architecture of next individual challenge;
 
-![Advance Project](assets/advance.png)
+![Advance Project](..assets/advance.png)
 
 If you see any issue with this documentation, please feel free to raise an issue on the github repo or drop a message for me on any of the handle.
 
