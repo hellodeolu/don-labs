@@ -31,7 +31,7 @@ This is the architecture of the final project;
 
 This is the architecture of next individual challenge;
 
-![Advance Project](..assets/advance.png)
+![Advance Project](../assets/advance.png)
 
 If you see any issue with this documentation, please feel free to raise an issue on the github repo or drop a message for me on any of the handle.
 
