@@ -1,7 +1,11 @@
+## Pay and Register to join the Premium group with the link below;
+- [Slack](https://bit.ly/slack-don-labs)
+
+# Premium details
+
 
 ## Register to Join the Premium Here;
-- [Slack](https://join.slack.com/t/donlabs/shared_invite/zt-1zlfl9sk0-anDcDbDfPfMC66P1YELERQ)
-
+- [Slack](https://bit.ly/slack-don-labs)
 
 ## Join the community on Slack;
-- [Slack](https://join.slack.com/t/donlabs/shared_invite/zt-1zlfl9sk0-anDcDbDfPfMC66P1YELERQ)
+- [Slack](https://bit.ly/slack-don-labs)

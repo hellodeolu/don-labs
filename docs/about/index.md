@@ -15,7 +15,7 @@ By the end of this program, you will be able to:
 I hope you enjoy learning with us!
   
 ## Join the community on Slack;
-- [Slack](https://join.slack.com/t/donlabs/shared_invite/zt-1zlfl9sk0-anDcDbDfPfMC66P1YELERQ)
+- [Slack](https://bit.ly/slack-don-labs)
 
 ### Final Project
 - Application: e-commerce-microservices app

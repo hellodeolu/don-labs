@@ -28,10 +28,11 @@ Lastly, ensure a disciplined commitment to completing all assigned hands-on proj
 
 ### others;
 - Welcome to AWS Documentation ([AWS docs](https://docs.aws.amazon.com/))
-- https://github.com/awsdocs
-- https://github.com/aws-solutions
-- https://github.com/aws-samples
-- https://github.com/awslabs
+- github awsdocs ([awsdocs](https://github.com/awsdocs))
+- github aws-solutions ([aws-solutions](https://github.com/aws-solutions))
+- github aws-samples ([aws-samples](https://github.com/aws-samples))
+- github awslabs ([awslabs](https://github.com/awslabs))
+
 
 ## network
 ### tutorial videos
