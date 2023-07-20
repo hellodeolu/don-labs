@@ -1,14 +1,13 @@
-# FOCUS FOR THE WEEK
+# What we’re learning about this week;
 - What is DevOps, 
 - Cloud Computing &
 - Version Control System
 
-- First Walkthrough ([YouTube Walkthrough](https://bit.ly/First-Walkthrough))
-
+- Week 1 Walkthrough ([YouTube Week 1](https://bit.ly/First-Walkthrough))
 
 **Contents** <a name="Contents"></a>
 <!-- TOC -->
-  * [FOCUS FOR THE WEEK](#FOCUS-FOR-THE-WEEK)
+  * [What we’re learning about this week](#What-we’re-learning-about-this-week)
   * [RESOURCES](#RESOURCES)
     * [What is DevOps](#What-is-DevOps)
     * [Cloud Computing](#Cloud-Computing)
@@ -18,7 +17,9 @@
 <!-- TOC -->
 
 # RESOURCES
-I recommend that you watch at least 2 tutorial videos, choose anyone that resonate with you and complete it's hands-on projects. Perhaps, in your extra time I encourage you to read and note things down while exploring the below books references and links; 
+I highly recommend engaging in a comprehensive learning approach. Start by watching at least one tutorial video from each subject, carefully assessing their content. Select the tutorial that resonates most with your learning preferences and embark on completing its hands-on projects. Additionally, I encourage you to utilize any spare time to enrich your knowledge further by delving into a book or informative doc. related to the subjects you are exploring. This well-rounded learning strategy will undoubtedly enhance your understanding and proficiency. 
+
+Lastly, ensure a disciplined commitment to completing all assigned hands-on projects by the end of each week. By adhering to this diligent practice, you will reinforce your learning, gain practical experience, and foster a deeper understanding of the subject matter.
 
 ## What is DevOps
 Dev(sec)Ops: simply put, everything you do to overcome the friction created by silos. All the rest is plain engineering.
@@ -27,11 +28,9 @@ Dev(sec)Ops: simply put, everything you do to overcome the friction created by s
 - DevOps Prerequisites Course - Getting started with DevOps ([FreeCodeCamp](https://www.youtube.com/watch?v=Wvf0mBNGjXY))
 - From Zero to DevOps Engineer - DevOps Roadmap for YOUR specific background ([TechWorld with Nana](https://www.youtube.com/watch?v=G_nVMUtaqCk&t=669s))
 - COMPLETE DEVOPS ZERO TO HERO COURSE ([Abhishek.Veeramalla](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa))
-- How I would Learn DevOps from scratch (if I could start over) ([Cloud Champ](https://www.youtube.com/watch?v=EAXdnPWUCcc))
 
 ### others;
 - DevOps Engineer RoadMap Course ([techiescamp](https://techiescamp.com/courses/devops-engineer-roadmap-course/))
-- How to Learn Git for DevOps: Beginners Git Roadmap ([devopscube](https://devopscube.com/git-for-devops/))
 - The Internet Book_ Everything You Need to Know about Computer Networking and How the Internet Works-CRC Press (2018) by Douglas Comer
 - How computers really work _ a hands-on guide to the inner workings of the machine-No Starch Press (2021) by Matthew Justice
 - Effective DevOps. Building a Culture of Collaboration, Affinity, and Tooling at Scale by - Davis J., Daniels R.
@@ -45,7 +44,6 @@ Dev(sec)Ops: simply put, everything you do to overcome the friction created by s
 - Cloud Computing Tutorial for Beginners | Cloud Computing Explained | Cloud Computing ([Simplilearn](https://www.youtube.com/watch?v=RWgW-CgdIk0))
 - Cloud Computing Full Course In 11 Hours | Cloud Computing Tutorial For Beginners ([Edureka](https://www.youtube.com/watch?v=2LaAJq1lB1Q))
 - AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training ([Edureka](https://www.youtube.com/watch?v=k1RI5locZE4))
-- PATH to Learn Cloud Computing ([Cloud Advocate](https://www.youtube.com/watch?v=ZSDxe7iBgag))
 
 ### others;
 - Welcome to AWS Documentation ([AWS docs](https://docs.aws.amazon.com/))
@@ -69,6 +67,7 @@ Dev(sec)Ops: simply put, everything you do to overcome the friction created by s
 ### others;
 - Git: Version control for everyone. by Ravishankar Somasundaram
 - Version Control with Git : Powerful Tools and Techniques for Collaborative Software Development. by on Loeliger
+- How to Learn Git for DevOps: Beginners Git Roadmap ([devopscube](https://devopscube.com/git-for-devops/))
 
 [Back to Contents](#Contents)
 

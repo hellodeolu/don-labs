@@ -1,33 +1,37 @@
-# FOCUS FOR THE WEEK
-- Cloud,
+# What we’re learning about this week;
 - AWS &
 - Network
 
+- Week 4 Walkthrough ([YouTube Week 4](https://bit.ly/wk4-Walkthrough))
+
 **Contents** <a name="Contents"></a>
 <!-- TOC -->
-  * [FOCUS FOR THE WEEK](#FOCUS-FOR-THE-WEEK)
+  * [What we’re learning about this week](#What-we’re-learning-about-this-week)
   * [RESOURCES](#RESOURCES)
-    * [What is DevOps](#What-is-DevOps)
-    * [Cloud Computing](#Cloud-Computing)
-    * [Version Control System](#Version-Control-System)
+    * [AWS](#AWS)
+    * [Network](#Network)
   * [HANDS-ON PROJECTS](#HANDS-ON-PROJECTS)
   * [Back to Contents](#Contents)
 <!-- TOC -->
 
 # RESOURCES
-I recommend that you watch at least 2 tutorial videos, choose anyone that resonate with you and complete it's hands-on projects. Perhaps, in your extra time I encourage you to read and note things down while exploring the below books references and links; 
+I highly recommend engaging in a comprehensive learning approach. Start by watching at least one tutorial video from each subject, carefully assessing their content. Select the tutorial that resonates most with your learning preferences and embark on completing its hands-on projects. Additionally, I encourage you to utilize any spare time to enrich your knowledge further by delving into a book or informative doc. related to the subjects you are exploring. This well-rounded learning strategy will undoubtedly enhance your understanding and proficiency. 
 
-## cloud
-### videos;
-
-
-### others;
+Lastly, ensure a disciplined commitment to completing all assigned hands-on projects by the end of each week. By adhering to this diligent practice, you will reinforce your learning, gain practical experience, and foster a deeper understanding of the subject matter.
 
 ## AWS
 ### videos;
+- AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training ([Edureka](https://www.youtube.com/watch?v=k1RI5locZE4))
+- AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam! ([freeCodeCamp](https://www.youtube.com/watch?v=SOTamWNgDKc))
+- Amazon Web Services YouTube ([Amazon Web Services](https://www.youtube.com/user/AmazonWebServices/Cloud))
 
 
 ### others;
+- Welcome to AWS Documentation ([AWS docs](https://docs.aws.amazon.com/))
+- https://github.com/awsdocs
+- https://github.com/aws-solutions
+- https://github.com/aws-samples
+- https://github.com/awslabs
 
 ## network
 ### tutorial videos
@@ -39,9 +43,38 @@ I recommend that you watch at least 2 tutorial videos, choose anyone that resona
 - Linux Networking Cookbook-O'Reilly Media (2007) by Carla Schroder
 
 
-# Projects
-## project 1 - LAMP_Stack_Implementation
-------------------------------------------------
+# HANDS-ON PROJECTS
+
+## Task 1 - Launch a static website on Amazon S3
+- All you need to complete this task ([AWS doc](https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html))
+
+### Before you begin
+### Step 1: Register a custom domain with Route 53
+### Step 2: Create two buckets
+### Step 3: Configure your root domain bucket for website hosting
+### Step 4: Configure your subdomain bucket for website redirect
+### Step 5: Configure logging for website traffic
+### Step 6: Upload index and website content
+### Step 7: Upload an error document
+### Step 8: Edit S3 Block Public Access settings
+### Step 9: Attach a bucket policy
+### Step 10: Test your domain endpoint
+### Step 11: Add alias records for your domain and subdomain
+### Step 12: Test the website
+### Speeding up your website with Amazon CloudFront
+### Cleaning up your example resources
+
+## Task 2 - Get started with Amazon EC2 Linux instances
+- All you need to complete this task ([AWS doc](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html))
+
+### step 1; Launch an instance
+
+### step 2; Connect to your instance
+
+### step 3; Clean up your instance
+
+## Task 3 - LAMP_Stack_Implementation
+
 Web stack implementation (lamp stack) in AWS
 - LAMP stack (collection Linux, Apache, MySQL, PHP or Python, or Perl)
 - LAMP is basically a collection of software that you require to create a dynamic website and web applications. These tools are capable enough that you don’t require any other tool for the purpose. LAMP tools are free and open-source.
@@ -64,6 +97,7 @@ sudo apt install apache2
 sudo systemctl status apache2
 ```
 ![screenshot_here](/docs/..)
+
 - Requested Apache HTTP server on port 80:
 ```
 curl http://localhost:80
@@ -139,6 +173,7 @@ Saved and closed the file, as shown below:
 sudo ls /etc/apache2/sites-available
 ```
 ![screenshot_here](/docs/..)
+
 - enable the new virtual host
 ```
 sudo a2ensite projectlamp
@@ -191,51 +226,13 @@ phpinfo();
 ```
 - Refresh your EC2 public ip address url page
 ![screenshot_here](/docs/..)
+
 - It’s best to remove the file you created as it contains sensitive information about your PHP environment -and your Ubuntu server.
 ```
 sudo rm /var/www/projectlamp/index.php
 ```
+### don't forget to clean resources on AWS after use!!!
 
-## project 2 - Auto-Setup-Multitier Web
-------------------------------------------------
-![proj-02](/docs/week4/auto-setup.png)
+Congratualation! 
 
-
-### Prerequisites
---------------------
-- Vagrant
-- Oracle VM Virtualbox
-- JDK 1.8 or later
-- Maven 3 or later
-- MySQL 5.6 or later
-
-
-### Execute the scripts to creating the VMs
-- Clone this repository
-```
-git clone -b local-setup https://github.com/devopshydclub/ and switch to appropriate folder
-```
-- Switch directory to the folder containing the Vagrant file to be used
-```
-cd /provisioning/Vagrant
-```
-- Install the vagrant plugin
-```
-vagrant plugin install vagrant-hostmanager
-```
-- Run the vagrant up command
-```
-vagrant up
-```
-
-### Check if things work correctly
-![screenshot_here](/docs/..)
-![screenshot_here](/docs/..)
-![screenshot_here](/docs/..)
-
-### Destroy with the vagrant destroy command
-```
-vagrant destory
-```
-
-# HANDS-ON PROJECTS
+[Back to Contents](#Contents)
