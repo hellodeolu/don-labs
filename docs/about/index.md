@@ -38,6 +38,7 @@ If you see any issue with this documentation, please feel free to raise an issue
 ## About Content Curator
 
 Adeolu Oyinlola
+
 - DevOps Engineer | AWS Community Builder | LiFT Scholar 2023
 
 - [GitHub](https://github.com/deoluoyinlola/do-devops-projects)

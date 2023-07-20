@@ -1,4 +1,4 @@
-# do-devops-projects
+# don labs projects
 Cloud computing and DevOps projects with guides from curated list of tutorials, bootcamp and hands-on projects.
 
 This is a journey of utilizing guides from various YouTube tutorials, GitHub repos, bootcamp exercises and curated curriculums. Each week contains varying projects for real-world solution from setting up an environment that is using DevOps technologies and practices to building, deploying and monitoring apps on cloud infrastructure - AWS.
