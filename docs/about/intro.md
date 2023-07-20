@@ -7,33 +7,41 @@ To make it easier to navigate and manage your learning, we have divided all of t
 Here is a breakdown of the weekly schedule:
 
 Week 1
+
 - Introduction to DevOps
 - Introduction to Cloud Computing
 - Version Control System
 
 Week 2
+
 - Linux
 - Scripting
 
 Week 3
+
 - Security
 - Database
 
 Week 4
+
 - AWS Fundamentals
 - Network
 
 Week 5
+
 - Container
 - Container Orchestration
 
 Week 6
+
 - Infrastructure as a code
 
 Week 7
+
 - Continuous Integration and Continuous Delivery (CI/CD)
 
 Week 8
+
 - Final Project
 
 ## Note:
