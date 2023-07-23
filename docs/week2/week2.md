@@ -2,7 +2,7 @@
 - Linux &
 - Scripting
 
-- Week 2 Walkthrough ([YouTube Week 2](https://bit.ly/wk2-Walkthrough))
+- Week 2 Walkthrough ([YouTube Week 2](https://www.youtube.com/watch?v=LelfqmdKorU))
 
 **Contents** <a name="Contents"></a>
 <!-- TOC -->

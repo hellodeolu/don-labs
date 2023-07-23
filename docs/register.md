@@ -1,11 +1,15 @@
-## Pay and Register to join the Premium group with the link below;
-- [Slack](https://bit.ly/slack-don-labs)
+## Register to join the Premium group with the link below;
+- [Pay here](https://selar.co/5502fc)
 
 # Premium details
 
 
+
+
 ## Register to Join the Premium Here;
-- [Slack](https://bit.ly/slack-don-labs)
+- [Pay here](https://selar.co/5502fc)
+
+
 
 ## Join the community on Slack;
 - [Slack](https://bit.ly/slack-don-labs)
