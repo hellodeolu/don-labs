@@ -7,7 +7,7 @@
 ## Resources
 ### What resources you will have access to;
 - Technical Instructor
-- Tutorial videos
+- Tutorial videos by the instructor
 - Premium community
 - All sample codes, architecture and diagrams used in the program
 - Links to other useful resources
