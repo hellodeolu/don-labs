@@ -2,7 +2,8 @@
 - [Pay here](https://selar.co/5502fc)
 
 # Some of the Bootcamp details
-## 3 Months | 12 Solid Projects | $15 Montly
+## The program is designed with beginners in mind, so you can expect it to be beginner-friendly.
+## 3 Months |   12 Solid Projects   |   $15 Montly    |   Live class Sat. & Sun. - Starting 8pm
 
 ## Resources
 ### What resources you will have access to;
@@ -21,6 +22,7 @@
 
 ## Policies
 ### What are the participatory policies;
+- Student must have access to Laptop or desktop system and internet connection
 - Student must attend at least 75% live class(Saturday & Sunday)
 - Student(s) must submit both individual and peer projects deliverables before deadlines
 - Student must participate in at least 75% weekly snapquiz
@@ -28,7 +30,7 @@
 - All the above must be met for graduation consideration
 
 ## Estimated Daily
-### Throughout the program, we recommend that all students allocate a minimum of 5 hours for their studies each week;
+### Throughout the program, we recommend that all students allocate a minimum of 4 - 5 hours/daily or 24 - 30 hours/week for their studies.
 - Watch Tutorial Videos - 1.30hr
 - Individual and Group projects - 2hrs
 - Read and Research - 1 hr
@@ -54,7 +56,7 @@
 
 ## Pricing
 - $15 Montly
-### Student can choose to pay for the program at once with the sum of $45. If prefer this option, contact us!
+### Student can choose to pay for the program at once with the sum of $45. If you prefer this option, kindly contact us!
 
 
 ## Register to Join the Premium Here;
