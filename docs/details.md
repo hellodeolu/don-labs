@@ -18,7 +18,7 @@
 ## Assessment
 ### How we assess our students;
 - Student Final Project - 35%
-- Student Weekly Hands-on Projects - 30%
+- Weekly Hands-on Projects - 30%
 - Peer Projects - 15%
 - Weekly SnapQuiz - 20%
 
