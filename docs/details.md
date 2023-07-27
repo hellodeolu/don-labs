@@ -42,7 +42,7 @@
 
 |  Week | Subject | AWS CCP Prep |
 | --- | --- | --- |
-| Week 1 | Welcome, All Account and System Requirement Set-up | Intro. to Cloud |
+| Week 1 | Bootcamp Overview, All Accounts and System Requirements Set-up | Intro. to Cloud |
 | Week 2 | System Design & SDLC | AWS |
 | Week 3 | Version Control System & Linux | AWS Compute |
 | Week 4 | Bash & Python Scripting | AWS Storage |
