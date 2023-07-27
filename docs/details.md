@@ -3,13 +3,15 @@
 
 # Some of the Bootcamp details
 ## The program is designed with beginners in mind, so you can expect it to be beginner-friendly.
-## 3 Months |   12 Solid Projects   |   $15 Montly    |   Live class Sat. & Sun. - Starting 8pm
+## 3 Months |   12 Solid Projects   |   $15 Monthly    |   Live class Sat. & Sun. - Starting 8pm
 
 ## Resources
 ### What resources you will have access to;
 - Technical Instructor
 - Tutorial videos by the instructor
-- Premium community
+- Premium Slack channel
+- Opportunities to network with other students in the program
+- Unlimited access to all hands-on projects
 - All sample codes, architecture and diagrams used in the program
 - Links to other useful resources
 
