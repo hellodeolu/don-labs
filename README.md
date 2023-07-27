@@ -41,7 +41,7 @@ This is the architecture of the project;
 
 ## Instructions
 
-If you wish to follow along with this series of DevOps hands-on projects, you need to forked this Github Repository. I also encounrage you to always document your progress for each week. Perhaps, you need detail steps starting out, always check intro.md file inside about directory of doc directory. 
+If you wish to follow along with this series of DevOps hands-on projects, you need to forked this Github Repository. I also encounrage you to always document your progress for each week. If you need detailed steps to get started, please check the intro.md file in the about directory of the docs directory in the root of this project.
 
 ## Contribution
 - [How to Contribute](CONTRIBUTING.md)
