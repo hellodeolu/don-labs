@@ -4,6 +4,7 @@
 # Some of the Bootcamp details
 ## The program is designed with beginners in mind, so you can expect it to be beginner-friendly.
 ## 3 Months |   12 Solid Projects   |   $15 Monthly    |   Live class Sat. & Sun. - Starting 8pm
+- Registration closes on September 4, 2023. The next cohort will start in January 2024.
 
 ## Resources
 ### What resources you will have access to;
