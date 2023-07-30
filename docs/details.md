@@ -41,17 +41,17 @@
 
 #### The above estimated daily spend times for the program are only suggestions that we hope could be beneficial for your learning consideration. However, feel free to optimize accordingly to achieve the best results that suit your learning pace and preferences.
 
-|  Week | Subject | AWS CCP Prep |
+|  Week | Coverage | AWS CCP Prep |
 | --- | --- | --- |
 | Week 1 | Bootcamp Overview, All Accounts and System Requirements Set-up | Intro. to Cloud |
-| Week 2 | System Design & SDLC | AWS |
+| Week 2 | System Design & SDLC | AWS Intro. |
 | Week 3 | Version Control System & Linux | AWS Compute |
-| Week 4 | Bash & Python Scripting | AWS Storage |
+| Week 4 | Bash Scripting & Security | AWS Security |
 | Week 5 | Network & Database | AWS Network |
-| Week 6 | Security, Build Tools & Jenkins | AWS Security |
-| Week 7 | Docker | AWS Manage Services |
-| Week 8 | Terraform | AWS Others |
-| Week 9 | Kubernetes | AWS Prep |
+| Week 6 | Build Tools & Docker | AWS Storage |
+| Week 7 | Jenkins | AWS Global Infrastructure and Reliability |
+| Week 8 | Terraform | AWS Monitoring and Analytics |
+| Week 9 | Kubernetes | AWS Pricing and Support |
 | Week 10 | Prometheus & Grafana | AWS Exam Readiness |
 | Week 11 | Student Final Project | Peer Final Project |
 | Week 12 | Student Final Project | Peer Final Project |
