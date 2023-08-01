@@ -49,7 +49,7 @@
 | Week 4 | Bash Scripting & Security | AWS Security |
 | Week 5 | Network & Database | AWS Network |
 | Week 6 | Build Tools & Docker | AWS Storage |
-| Week 7 | Jenkins | AWS Global Infrastructure and Reliability |
+| Week 7 | GitLab-CI | AWS Global Infrastructure and Reliability |
 | Week 8 | Terraform | AWS Monitoring and Analytics |
 | Week 9 | Kubernetes | AWS Pricing and Support |
 | Week 10 | Prometheus & Grafana | AWS Exam Readiness |
