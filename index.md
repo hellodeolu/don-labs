@@ -1,6 +1,6 @@
 # Welcome to DON LABS program
 
-![Beginner Project](../assets/don-recent.jpeg)
+![Beginner Project](/docs/assets/don-recent.jpeg)
 
 I am glad you are here to learn about cloud computing and DevOps. Our mission is to provide you with an evolving project that serves as a comprehensive guide while exploring free, valuable resources on these subjects. Here, you will find a wealth of information, including tutorials, exercises, and hands-on projects to aid in your learning journey. For more detailed information, kindly refer to the menu bar - free courses.
 
@@ -25,7 +25,7 @@ I hope you enjoy learning with us!
 
 This is the architecture of the final project;
 
-![Beginner Project](../assets/beginner.png)
+![Beginner Project](/docs/assets/beginner.png)
 
 ### Next Individual Challenge
 - Application: train-ticket app
@@ -33,7 +33,7 @@ This is the architecture of the final project;
 
 This is the architecture of next individual challenge;
 
-![Advance Project](../assets/advance.png)
+![Advance Project](/docs/assets/advance.png)
 
 If you see any issue with this documentation, please feel free to raise an issue on the github repo or drop a message for me on any of the handle.
 
