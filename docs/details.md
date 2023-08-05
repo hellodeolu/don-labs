@@ -9,12 +9,13 @@
 ## Resources
 ### What resources you will have access to;
 - Technical Instructor
-- Tutorial videos by the instructor
+- Live Class and the Recorded session
 - Premium Slack channel
 - Opportunities to network with other students in the program
 - Unlimited access to all hands-on projects
 - All sample codes, architecture and diagrams used in the program
 - Links to other useful resources
+
 
 ## Assessment
 ### How we assess our students;
@@ -26,7 +27,8 @@
 ## Policies
 ### What are the participatory policies;
 - Student must have access to Laptop or desktop system and internet connection
-- Student must attend at least 75% live class(Saturday & Sunday)
+- Student must be comfortable working with slack app and google ecosystem(esp. Meet, Classroom, Slides and YouTube)
+- Student must attend at least 75% live class(Wednesday, Saturday & Sunday)
 - Student(s) must submit both individual and peer projects deliverables before deadlines
 - Student must participate in at least 75% weekly snapquiz
 - We frown at plagiarism. Always reference resources where necessary
@@ -34,7 +36,7 @@
 
 ## Estimated Daily
 ### Throughout the program, we recommend that all students allocate a minimum of 4 - 5 hours/daily or 24 - 30 hours/week for their studies.
-- Watch Tutorial Videos - 1.30hr
+- Watch Recorded Videos - 1.30hr
 - Individual and Group projects - 2hrs
 - Read and Research - 1 hr
 - Building Portfolio - 30 minutes
