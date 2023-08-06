@@ -1,6 +1,6 @@
 # Welcome to DON LABS program
 
-![Beginner Project](../assets/don-recent.jpeg)
+![Beginner Project](../assets/don-gen.png)
 
 I am glad you are here to learn about cloud computing and DevOps. Our mission is to provide you with an evolving project that serves as a comprehensive guide while exploring free, valuable resources on these subjects. Here, you will find a wealth of information, including tutorials, exercises, and hands-on projects to aid in your learning journey. For more detailed information, kindly refer to the menu bar - free courses.
 

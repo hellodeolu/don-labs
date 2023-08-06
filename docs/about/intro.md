@@ -1,5 +1,7 @@
 # Introduction to this free courses
 
+![Beginner Project](../assets/don-free.png)
+
 Weekly Resource Schedule
 
 To make it easier to navigate and manage your learning, we have divided all of the resource materials into 8 weeks. Each week will focus on 2-3 key subjects.

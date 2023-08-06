@@ -1,3 +1,6 @@
+
+![Beginner Project](../docs/assets/don-pay.png)
+
 ## Register to join the Premium group with the link below;
 - [Pay here](https://selar.co/5502fc)
 
