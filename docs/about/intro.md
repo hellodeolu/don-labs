@@ -4,7 +4,7 @@
 
 Weekly Resource Schedule
 
-To make it easier to navigate and manage your learning, we have divided all of the resource materials into 8 weeks. Each week will focus on 2-3 key subjects.
+To make it easier to navigate and manage your learning, we have divided all of the resource materials into 8 weeks. Each week will focus on 2-3 key subjects. The program is intentionally designed for self-paced learning to allow participants the flexibility to learn at their own pace. However, to promote organization and foster a sense of accountability, an optional timeframe of 8 weeks has been introduced. Participants are encouraged to utilize this timeframe as a guideline, but they are also free to adapt it according to their individual preferences and learning needs.
 
 Here is a breakdown of the weekly schedule:
 
