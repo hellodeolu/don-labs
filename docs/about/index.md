@@ -49,7 +49,9 @@ At don labs, we believe in celebrating those who lead by example. As a Don Circl
 🎓 Learning: Engage in exciting weekly activities that foster continuous learning and innovation.
 
  🚀 How to Secure Your Spot in the Don Circle:
+
 Joining the Don Circle is easier than ever! Follow these simple steps to claim your spot among our community's finest volunteers:
+
 - 1. Completion and Hosting: Successfully complete the week's project and host it on your public GitHub Account, ensuring you follow the appropriate steps for each task.
 - 2. Share Your Progress: Capture a screenshot of the completed project as it appears on your GitHub repo and share it with our vibrant community.
 - 3. Dedication Display: Demonstrate your unwavering commitment and dedication throughout the weekly activities.
@@ -61,9 +63,12 @@ If you have any questions or need assistance, feel free to contact us.
 
 👉 Your Community Needs You!
 Your involvement is what propels us towards greatness. Together, we can create a ripple effect of positive change!
+
 📅 Note that for each week, the first three best projects that meet up with be the above criteria will be considered for projects presentation and eventual making it to Don Circle list. Don't miss this exclusive opportunity. Spaces are limited, so act swiftly!
 Together, let's write a remarkable journey of service and impact within our community!
+
 Warmest regards,
+
 Adeolu Oyinlola
 
 ## About Content Curator
