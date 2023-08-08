@@ -36,20 +36,27 @@ This is the architecture of next individual challenge;
 ![Advance Project](../assets/advance.png)
 
 As a community member, are you ready to be recognized as one of our community's most valued heroes? Your dedication and passion can propel you to greatness! We're excited to extend an exclusive invitation to join the prestigious "Don Circle" list - a league of extraordinary volunteers who make a real impact!
+
 🤝 Why Choose the Don Circle?
 At don labs, we believe in celebrating those who lead by example. As a Don Circle elite, you'll experience:
+
 🌱 Empowerment: Empower lives and uplift the community through your selfless service.
+
 💡 Growth: Unlock new skills, hone your talents, and grow both personally and professionally.
+
 🏆 Recognition: Be applauded and celebrated for your outstanding contributions on our Don Circle list. Check the list of the community don from the the Don Circle menu.
+
 🎓 Learning: Engage in exciting weekly activities that foster continuous learning and innovation.
+
  🚀 How to Secure Your Spot in the Don Circle:
 Joining the Don Circle is easier than ever! Follow these simple steps to claim your spot among our community's finest volunteers:
-* 1. Completion and Hosting: Successfully complete the week's project and host it on your public GitHub Account, ensuring you follow the appropriate steps for each task.
-* 2. Share Your Progress: Capture a screenshot of the completed project as it appears on your GitHub repo and share it with our vibrant community.
-* 3. Dedication Display: Demonstrate your unwavering commitment and dedication throughout the weekly activities.
-* 4. Bask in Recognition: Witness your name shining brightly on the esteemed Don Circle list, where we celebrate exceptional volunteers like you!
+- 1. Completion and Hosting: Successfully complete the week's project and host it on your public GitHub Account, ensuring you follow the appropriate steps for each task.
+- 2. Share Your Progress: Capture a screenshot of the completed project as it appears on your GitHub repo and share it with our vibrant community.
+- 3. Dedication Display: Demonstrate your unwavering commitment and dedication throughout the weekly activities.
+- 4. Bask in Recognition: Witness your name shining brightly on the esteemed Don Circle list, where we celebrate exceptional volunteers like you!
 Together, let's make a significant impact and inspire others to reach for greatness. The Don Circle awaits your remarkable contributions!
 If you have any questions or need assistance, feel free to contact us.
+
 🌟 Be part of something extraordinary - join the Don Circle today! 🌟
 
 👉 Your Community Needs You!
