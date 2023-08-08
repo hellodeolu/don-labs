@@ -1,22 +1,22 @@
 
 ![Beginner Project](./assets/don-pay.png)
 
-## Register to join the Premium group with the link below;
+## Register to join the Study Group with the link below;
 - [Pay here](https://selar.co/5502fc)
 
-# Some of the Bootcamp details
+# Some of the Study Group details
 ## The program is designed with beginners in mind, so you can expect it to be beginner-friendly.
 ## 3 Months |   12 Solid Projects   |   $15 Monthly    |   Live class Sat. & Sun. - Starting 8pm
-- Registration closes on September 4, 2023. The next cohort will start in January 2024.
+- Registration closes on September 4, 2023. The next group will start in January 2024.
 
 ## Resources
 ### What resources you will have access to;
 - Technical Instructor
 - Live Class and the Recorded session
 - Premium Slack channel
-- Opportunities to network with other students in the program
+- Opportunities to network with other students in the group
 - Unlimited access to all hands-on projects
-- All sample codes, architecture and diagrams used in the program
+- All sample codes, architecture and diagrams used in the group
 - Links to other useful resources
 
 
@@ -35,7 +35,6 @@
 - Student(s) must submit both individual and peer projects deliverables before deadlines
 - Student must participate in at least 75% weekly snapquiz
 - We frown at plagiarism. Always reference resources where necessary
-- All the above must be met for graduation consideration
 
 ## Estimated Daily
 ### Throughout the program, we recommend that all students allocate a minimum of 4 - 5 hours/daily or 24 - 30 hours/week for their studies.
@@ -64,10 +63,10 @@
 
 ## Pricing
 - $15 Montly
-### Student can choose to pay for the program at once with the sum of $45. If you prefer this option, kindly contact us!
+### Student can choose to pay to join the study group at once with the sum of $45. If you prefer this option, kindly contact us!
 
 
-## Register to Join the Premium Here;
+## Register to Join the Premium Study-Group Here;
 - [Pay here](https://selar.co/5502fc)
 
 

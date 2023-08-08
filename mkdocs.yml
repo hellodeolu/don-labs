@@ -18,7 +18,7 @@ markdown_extensions:
     permalink: true
 nav:
   - About: about/index.md
-  - Free Courses:
+  - Free Self-Paced:
     - Intro: about/intro.md
     - Week 1: week1/week1.md
     - Week 2: week2/week2.md
@@ -28,6 +28,6 @@ nav:
     - Week 6: week6/week6.md
     - Week 7: week7/week7.md
     - Week 8: week8/week8.md
-  - Premium Courses:
+  - Premium Study-Group:
     - Details: details.md
   
