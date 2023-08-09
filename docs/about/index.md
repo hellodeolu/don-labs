@@ -52,10 +52,10 @@ At don labs, we believe in celebrating those who lead by example. As a Don Circl
 
 Joining the Don Circle is easier than ever! Follow these simple steps to claim your spot among our community's finest volunteers:
 
-- 1. Completion and Hosting: Successfully complete the week's project and host it on your public GitHub Account, ensuring you follow the appropriate steps for each task.
-- 2. Share Your Progress: Capture a screenshot of the completed project as it appears on your GitHub repo and share it with our vibrant community.
-- 3. Dedication Display: Demonstrate your unwavering commitment and dedication throughout the weekly activities.
-- 4. Bask in Recognition: Witness your name shining brightly on the esteemed Don Circle list, where we celebrate exceptional volunteers like you!
+- Completion and Hosting: Successfully complete the week's project and host it on your public GitHub Account, ensuring you follow the appropriate steps for each task.
+- Share Your Progress: Capture a screenshot of the completed project as it appears on your GitHub repo and share it with our vibrant community.
+- Dedication Display: Demonstrate your unwavering commitment and dedication throughout the weekly activities.
+- Bask in Recognition: Witness your name shining brightly on the esteemed Don Circle list, where we celebrate exceptional volunteers like you!
 Together, let's make a significant impact and inspire others to reach for greatness. The Don Circle awaits your remarkable contributions!
 If you have any questions or need assistance, feel free to contact us.
 
