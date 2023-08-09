@@ -48,8 +48,8 @@
 |  Week | Coverage | AWS CCP Exam Prep(using free materials) |
 | --- | --- | --- |
 | Week 1 | Bootcamp Overview, All Accounts and System Requirements Set-up | Intro. to Cloud |
-| Week 2 | SDLC & Version Control System | AWS Intro. |
-| Week 3 | Linux | AWS Compute |
+| Week 2 | SDLC & Collaboration | AWS Intro. |
+| Week 3 | Linux & Version Control System | AWS Compute |
 | Week 4 | Bash Scripting & Security | AWS Security |
 | Week 5 | Network & Database | AWS Network |
 | Week 6 | Docker | AWS Storage |
