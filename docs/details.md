@@ -45,7 +45,7 @@
 
 #### The above estimated daily spend times for the program are only suggestions that we hope could be beneficial for your learning consideration. However, feel free to optimize accordingly to achieve the best results that suit your learning pace and preferences.
 
-|  Week | Coverage | AWS CCP Exam Prep(using free materials) |
+|  Week | Coverage | AWS CCP/SAA Exam Prep(using free materials) |
 | --- | --- | --- |
 | Week 1 | Bootcamp Overview, All Accounts and System Requirements Set-up | Intro. to Cloud |
 | Week 2 | SDLC & Collaboration | AWS Intro. |
